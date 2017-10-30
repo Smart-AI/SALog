@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name                  = 'SALog'
-  s.version               = '1.5.0'
+  s.version               = '1.7.0'
   s.summary               = 'An elegant log tool.'
   s.description           = 'An elegant log tool writen by Objective-C.'
   s.homepage              = 'https://github.com/Smart-AI/SALog'
